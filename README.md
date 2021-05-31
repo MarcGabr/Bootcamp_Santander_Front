@@ -4,7 +4,7 @@
 
 ## 📋 Descrição
 
-Bootcamp da empresa  [Santander](https://app.becas-santander.com/pt/program/search) em conjunto com a plataforma de cursos [Digital Innovation One](https://web.digitalinnovation.one/). O bootcamp denominado LocalizaLabs .Net Developer tem como foco transmitir o aprendizado das competências buscadas no mercado de .NET utilizando C#.
+Bootcamp da empresa  [Santander](https://app.becas-santander.com/pt/program/search) em conjunto com a plataforma de cursos [Digital Innovation One](https://web.digitalinnovation.one/). O bootcamp denominado SANTANDER DEV WEEK tem como foco transmitir o aprendizado das competências utilizadas no mercado de trabalho sobre Java e Angular.
 
 ## 🔧 Ferramentas Utilizadas
 - [Git](https://git-scm.com).
